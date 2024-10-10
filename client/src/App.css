@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+button {
+  @apply min-w-[80px] p-2 border bg-slate-500 text-white;
+}
